@@ -2,6 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
+  <meta name="referrer" content="no-referrer">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PRO AUDIO WIRE | 프로오디오 신제품 및 런칭 소식</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -761,7 +762,7 @@
 
     function getThumbImg(item) {
       if (item.imageUrl) {
-        return `<img src="${item.imageUrl}" class="card-thumb" alt="${item.productName || item.brand}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\'thumb-fallback\'>🎙️ <span>${item.brand}</span></div>'">`;
+        return `<img referrerpolicy="no-referrer" src="${item.imageUrl}" class="card-thumb" alt="${item.productName || item.brand}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\'thumb-fallback\'>🎙️ <span>${item.brand}</span></div>'">`;
       }
       return `<div class="thumb-fallback">🎛️ <span>${item.brand}</span></div>`;
     }
@@ -788,7 +789,7 @@
             <div class="card-expand-content">
               <p class="expand-summary">${item.summary}</p>
               ${item.evidence ? `<p class="expand-evidence">근거: "${item.evidence}"</p>` : ''}
-              <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn-link-out" onclick="event.stopPropagation()">
+              <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="btn-link-out" onclick="event.stopPropagation()" target="_blank" rel="noopener noreferrer">
                 원문 기사 바로가기 ↗
               </a>
             </div>
@@ -856,7 +857,7 @@
       filtered.forEach((item, fIdx) => {
         const rowId = `row-${fIdx}`;
         const expandId = `expand-${fIdx}`;
-        const thumbHtml = item.imageUrl ? `<img src="${item.imageUrl}" class="expand-thumb" alt="${item.brand}" loading="lazy">` : '';
+        const thumbHtml = item.imageUrl ? `<img referrerpolicy="no-referrer" src="${item.imageUrl}" class="expand-thumb" alt="${item.brand}" loading="lazy">` : '';
 
         const brandDisplay = item.company && item.company !== item.brand
           ? `${item.brand} <span style="font-size:0.75rem; color:#94a3b8; font-weight:normal;">(${item.company})</span>`
