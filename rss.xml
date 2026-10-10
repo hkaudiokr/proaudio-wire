@@ -6,7 +6,47 @@
     <atom:link href="https://news.ainsonic.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>국내외 프로오디오 신제품, 펌웨어 업데이트, 공식 런칭 실시간 소식 피드</description>
     <language>ko-KR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>[신제품] NTU Systems - NMS-0112M</title>
+      <link>https://news.ainsonic.com/n/news-145.html</link>
+      <description>엔티유시스템즈가 HD-SDI 미니 분배기 NMS-0112M을 새로 내놨습니다. HD-SDI 입력 1개를 동일한 출력 12개로 분배하며, 일체형 브라켓으로 19인치 랙이 없는 곳에도 설치할 수 있는 미니 사이즈(250×30×60mm) 제품입니다. 입력 Lock LED로 신호 유무를 확인할 수 있고, 720p·1080i·1080p를 별도 설정 없이 자동 감지합니다. 팬쿨러가 없어 발열이 없고 5VDC 어댑터 전원으로 해외에서도 사용하기 쉽습니다.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-145</guid>
+      <category>신제품</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[신제품] NTU Systems - HS-100</title>
+      <link>https://news.ainsonic.com/n/news-146.html</link>
+      <description>엔티유시스템즈가 HDMI to SDI 미니 컨버터 HS-100을 새로 내놨습니다. HDMI 출력만 있는 캠코더·PC 소스를 장거리로 전송할 때 사용하며, 2개의 동일한 HD-SDI 신호를 출력해 분배 기능도 겸합니다. 3G·HD·SD 비디오를 자동 감지하고, 5C HFBT 동축 케이블 기준 약 150m 이상 전송이 가능합니다. 브라켓 일체형으로 벽이나 TV 뒷면에 장착하기 쉽고 소비전력이 적어 발열이 적은 설계이며, 국내 제조 제품입니다.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-146</guid>
+      <category>신제품</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[신제품] NTU Systems - SH-100</title>
+      <link>https://news.ainsonic.com/n/news-147.html</link>
+      <description>엔티유시스템즈가 SDI to HDMI 미니 컨버터 SH-100을 새로 내놨습니다. SDI 신호를 HDMI 신호로 변환하며, SDI Throughout 출력 1개는 입력 신호를 리로킹해 장거리 재전송이 가능해 SDI 리피터 용도로도 사용할 수 있습니다. 3G·HD·SD 비디오를 자동 감지하고 5C HFBT 동축 케이블 기준 약 150m 이상 전송이 가능합니다. 브라켓 일체형으로 벽이나 TV 뒷면에 장착하기 쉽고 발열이 적으며, 입력신호 감지 시 LED가 점등됩니다. 국내 제조 제품입니다.</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-147</guid>
+      <category>신제품</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[행사] Sennheiser - TeamConnect Ceiling M Plus</title>
+      <link>https://news.ainsonic.com/n/news-148.html</link>
+      <description>중동 유통사 Venuetech가 10월 13일 두바이 알 쿠즈 교육센터에서 Sennheiser Middle East와 'Sennheiser Connect: Ceiling to Cloud' 워크숍을 엽니다. TeamConnect 컨퍼런싱 플랫폼을 시연하고 빔포밍·TruVoicelift, LUI·DeviceHub 제어 도구와 카메라 트래킹을 체험하는 실습형 프로그램입니다. 신제품 TeamConnect Ceiling M Plus는 천장 마이크 설치·운영을 간소화한 강화 빔포밍 기술을 갖췄습니다.</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-148</guid>
+      <category>행사</category>
+      <category>프로오디오</category>
+    </item>
 
     <item>
       <title>[신제품] MOTU - OctaLite</title>
@@ -14,6 +54,46 @@
       <description>MOTU가 16x12 하프라크 USB 오디오 인터페이스 OctaLite를 출시했습니다. 콤보 XLR/TRS 마이크·라인·기타 입력 8개를 갖췄고 DSP 믹싱과 리버브, 4밴드 파라메트릭 EQ, 컴프레서, 게이트 이펙트를 내장했습니다. ADAT 광 입출력을 갖춰 다른 장비의 입력 확장용 익스팬더로도 쓸 수 있으며, 최대 192kHz 녹음과 2ms RTL 저지연 드라이버를 지원합니다. 가격은 849.95달러입니다.</description>
       <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">news-139</guid>
+      <category>신제품</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[행사] K-array - Tornado KT2·KT2C, KY102 라인어레이, KS2P I, KGEAR GF82 I·GU210</title>
+      <link>https://news.ainsonic.com/n/news-149.html</link>
+      <description>중국 윈난성 달리 EDITION 리조트에 K-array·KGEAR 기반 구역별 음향 시스템이 구축됐습니다. 다이닝·로비·풀 구역에는 Tornado KT2 포인트소스와 KT2C 천장 스피커를, 볼룸에는 KY102 라인어레이와 매립형 KS2P I 서브우퍼를 배치했습니다. 테라스와 야외 바에는 내후성 KGEAR GF82 I 라인어레이와 GU210 서브우퍼를 설치해 주간 배경음악과 야간 공연에 대응합니다. 구역별 볼륨과 플레이리스트는 매트릭스·조닝 프로세서로 독립 제어합니다.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-149</guid>
+      <category>행사</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[행사] JBL Professional - EON712·EON718S, PRX915·PRX918XLF</title>
+      <link>https://news.ainsonic.com/n/news-150.html</link>
+      <description>호치민의 가라오케(KTV) 업장 M Suite가 룸 크기에 맞춰 JBL Professional 시스템을 설치했습니다. 소형 룸은 EON712 파워드 스피커 2대와 EON718S 서브우퍼 1대, 중형은 EON710 2대를 추가해 후방 커버리지를 확장했고, 대형은 EON712 6대와 EON718S 2대를 사용했습니다. 시그니처 룸은 PRX915 6대를 서라운드로 배치하고 PRX918XLF 4대와 Soundcraft 믹서를 결합했습니다. 유통사 PGI의 KTV 첫 JBL 액티브 시스템 적용 사례입니다.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-150</guid>
+      <category>행사</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[업데이트] Meyer Sound - Constellation(NADIA), Spacemap Go, Galileo GALAXY 816</title>
+      <link>https://news.ainsonic.com/n/news-151.html</link>
+      <description>브루클린의 라이브 공연장 National Sawdust가 Meyer Sound Constellation 시스템 업그레이드를 마쳤습니다. 기존 D-Mitri 프로세싱에서 NADIA 플랫폼으로 전환하고 Galileo GALAXY 816 네트워크 플랫폼을 추가했습니다. Milan AVB 네트워크에서 능동 음향과 증폭 오디오를 별도 경로로 처리하고, Spacemap Go가 증폭 오디오의 공간 믹싱을 담당합니다. 처리 경로는 3개로 늘어나 초기 반사음 제어가 추가됐습니다.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-151</guid>
+      <category>업데이트</category>
+      <category>프로오디오</category>
+    </item>
+
+    <item>
+      <title>[신제품] Listen - SCC-1</title>
+      <link>https://news.ainsonic.com/n/news-152.html</link>
+      <description>Listen이 이어버드·보청기 측정용 0.4cc 이어 커플러 SCC-1을 출시했습니다. IEC 60318-8 규격을 준수하며 최대 16kHz까지 측정할 수 있어 R&amp;D와 생산 테스트를 모두 겨냥합니다. 반복 가능한 장착을 위해 4종의 교체형 인서트(XS·S·M·L)를 제공하고 맞춤형 3D 프린팅 어댑터도 지원합니다. 1/4인치 측정 마이크를 장착하며 SCM-4 또는 SCM-4A 마이크와 패키지로도 구매할 수 있습니다.</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">news-152</guid>
       <category>신제품</category>
       <category>프로오디오</category>
     </item>
@@ -324,86 +404,6 @@
       <description>xGG가 오디오북 제작용 Windows VST3 실시간 오디오 프로세서·분석기 Magic ACX를 출시했습니다. 노이즈 감소, RMS 레벨 처리, 피크 제어 기능과 함께 노이즈 플로어·피크·RMS 분석 및 ACX 적합 여부 표시, 노이즈 프로파일 학습 기능을 제공합니다. Audible의 오디오북 플랫폼인 ACX 제출 기준에 맞춰 음원을 준비하려는 내레이터와 제작자를 대상으로 합니다. 가격은 $10이며 ko-fi.com에서 구매할 수 있습니다.</description>
       <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">news-108</guid>
-      <category>신제품</category>
-      <category>레코딩소프트웨어</category>
-    </item>
-
-    <item>
-      <title>[신제품] AISpeech - AISpeech AI 컨퍼런싱 장비 라인업 (POLAR 영국·아일랜드 독점 공급)</title>
-      <link>https://news.ainsonic.com/n/news-116.html</link>
-      <description>AISpeech가 영국·아일랜드 시장에 AI 기반 회의실 오디오·영상 장비 라인업을 선보입니다. 천장형 마이크 어레이는 360도 커버리지와 AI 소음 제거, 잔향 제거 기능을 갖췄고 4K 화질의 화자 추적 카메라도 함께 나옵니다. 현지 유통은 POLAR가 독점으로 맡으며 10월 14일 런던 Frezza 쇼룸에서 런칭 행사가 열립니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-116</guid>
-      <category>신제품</category>
-      <category>프로오디오</category>
-    </item>
-
-    <item>
-      <title>[신제품] RTI - RTI Commercial Amplifier Series 확장 모델 (Dante 지원 2·4·8채널)</title>
-      <link>https://news.ainsonic.com/n/news-117.html</link>
-      <description>RTI가 상업용 설치 현장을 위한 앰프 시리즈에 신제품 4종을 추가했습니다. 2·4·8채널 구성으로 나오고 이 중 3종은 Dante와 AES67 네트워크 오디오를 지원합니다. 저임피던스는 채널당 125W, 고임피던스(70V/100V)는 250W까지 출력하며, Cat5e 케이블 하나로 연결하는 벽면형 PoE 존 컨트롤러도 함께 나왔습니다. 프리셋을 잠그거나 내보내 프로젝트 간 공유할 수 있어 다구역 설치 현장의 커미셔닝 시간을 줄여줍니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-117</guid>
-      <category>신제품</category>
-      <category>프로오디오</category>
-    </item>
-
-    <item>
-      <title>[업데이트] Mixed In Key - Wingman 3.0</title>
-      <link>https://news.ainsonic.com/n/news-113.html</link>
-      <description>Mixed In Key가 DAW에 있는 음악을 분석해 코드 진행과 베이스 라인을 제안하는 작곡 보조 플러그인 Wingman을 3.0으로 업데이트했습니다. 패싱 코드 삽입·개별 코드 교체 등 편집 기능이 늘었고, 코드에 맞춰 연주되는 기타 연주와 장르별 드럼 패턴이 추가됐습니다. 원본 오디오는 그대로 두고 제안을 들어보며 편집해 세션으로 내보낼 수 있습니다. macOS와 Windows를 지원하며 구독 없는 1회 구매 방식으로 현재 판매 중입니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-113</guid>
-      <category>업데이트</category>
-      <category>레코딩소프트웨어</category>
-    </item>
-
-    <item>
-      <title>[신제품] Two notes - Torpedo Captor X Pro</title>
-      <link>https://news.ainsonic.com/n/news-109.html</link>
-      <description>Two notes가 기타 앰프용 리액티브 로드박스 겸 어테뉴에이터 Torpedo Captor X Pro를 발표했습니다. 4/8/16Ω 전환과 최대 150W를 지원하고, 13단계 패시브 어테뉴에이터와 24개 IR을 담은 트루 스테레오 DynIR 엔진, XLR 출력 2개를 갖췄습니다. 앰프 톤을 유지하며 조용히 연습·녹음하려는 투어 기타리스트 등을 겨냥합니다. 가격은 €999.99 / $1,099.99이며 예약 판매 중이고 2026년 4분기 말 출하 예정입니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-109</guid>
-      <category>신제품</category>
-      <category>기타</category>
-    </item>
-
-    <item>
-      <title>[신제품] Tim Exile - Finalist 2</title>
-      <link>https://news.ainsonic.com/n/news-110.html</link>
-      <description>Tim Exile이 스템을 분석해 자동으로 믹스해 주는 믹싱 툴 Finalist 2를 출시했습니다. 최대 64개 스템을 파일명 기준으로 자동 배치하고, 장르별 프리셋으로 처리해 WAV·AIFF·FLAC으로 내보냅니다. AI가 아닌 직접 설계한 알고리즘 기반으로, 믹싱할 시간이나 기술이 부족한 음악가를 대상으로 합니다. Chrome·Edge 브라우저와 macOS·Windows 앱으로 쓸 수 있으며 영구 라이선스는 10월 9일까지 £99(정가 £149)입니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-110</guid>
-      <category>신제품</category>
-      <category>레코딩소프트웨어</category>
-    </item>
-
-    <item>
-      <title>[신제품] Desert Moon Audio - Desert Moon Audio 플러그인 15종</title>
-      <link>https://news.ainsonic.com/n/news-111.html</link>
-      <description>신생 개발사 Desert Moon Audio가 아날로그 계열 오디오 플러그인 15종을 첫 제품군으로 출시했습니다. 테이프, 새추레이션, 컴프레서, EQ, 리버브, 딜레이, 미터 등으로 구성되며 macOS는 AU·VST3·AAX, Windows는 VST3를 지원합니다. 1회 구매 라이선스로 최대 4대까지 설치할 수 있고 14일 체험판을 결제 정보 없이 쓸 수 있습니다. 개별 가격은 $19~$64이며 15종 전체 번들은 개별 구매 대비 30% 할인됩니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-111</guid>
-      <category>신제품</category>
-      <category>레코딩소프트웨어</category>
-    </item>
-
-    <item>
-      <title>[업데이트] FRCTL Audio - DLAY v1.3.0</title>
-      <link>https://news.ainsonic.com/n/news-112.html</link>
-      <description>FRCTL Audio가 최대 64탭을 타임라인 위 선으로 보여 주는 멀티탭 딜레이 플러그인 DLAY를 v1.3.0으로 업데이트했습니다. LFO 2개와 엔벨로프 팔로워를 22개 파라미터에 연결하는 MOD 밴드, 리플 MOTION 노브, 정지 시 잔향을 비우는 킬 스위치가 추가됐습니다. 기존 사용자에게는 무료 업데이트이며 VST3·AU·CLAP 포맷으로 Windows·macOS·Linux를 지원합니다. 신규 가격은 $34.99이고 14일 체험판이 제공됩니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-112</guid>
-      <category>업데이트</category>
-      <category>레코딩소프트웨어</category>
-    </item>
-
-    <item>
-      <title>[신제품] zynaptiq - LOUD, WIDE, MASTER III, ZAP VI</title>
-      <link>https://news.ainsonic.com/n/news-104.html</link>
-      <description>zynaptiq가 트랙·버스·마스터용 라우드니스 처리 플러그인 LOUD와 스테레오 이미징·모노→스테레오 업믹싱 플러그인 WIDE를 출시했습니다. LOUD는 멀티밴드 리미터를 포함하고 최대 16채널 이머시브 포맷을 지원하며, WIDE는 스펙트럼 처리 기반으로 100% 모노 호환을 내세웁니다. 두 제품을 포함한 7종 번들 MASTER III($499)와 16종 번들 ZAP VI($1,299)도 함께 선보였습니다. 10월 15일까지 출시 기념가로 LOUD는 $49(정가 $99), WIDE는 $99(정가 $149)입니다.</description>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">news-104</guid>
       <category>신제품</category>
       <category>레코딩소프트웨어</category>
     </item>
